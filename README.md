@@ -2,13 +2,6 @@
 
 A production-ready monitoring system built with Spring Boot that automatically tracks website/service status.
 
-## 🚀 Features
-- **REST API** - Manual health check endpoints
-- **Automated Monitoring** - Scheduled checks every minute
-- **Data Persistence** - MySQL database for historical data
-- **Real-time Status** - Live website monitoring
-- **Professional Architecture** - Clean separation of concerns
-
 ## 🛠 Tech Stack
 - **Backend:** Java 17, Spring Boot 3.x
 - **Database:** MySQL, Spring Data JPA, Hibernate
