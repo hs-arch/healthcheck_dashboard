@@ -20,3 +20,10 @@ A production-ready monitoring system built with Spring Boot that automatically t
 - Designed scheduled tasks for automated monitoring
 - Created RESTful APIs with proper error handling
 - Built professional service-layer architecture
+
+  ## Features
+- **REST API** - Manual health check endpoints
+- **Automated Monitoring** - Scheduled checks every minute
+- **Data Persistence** - MySQL database for historical data
+- **Real-time Status** - Live website monitoring
+- **Professional Architecture** - Clean separation of concerns
