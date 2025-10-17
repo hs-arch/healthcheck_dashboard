@@ -19,7 +19,7 @@ A production-ready monitoring system built with Spring Boot that automatically t
 ## 📊 API Endpoints
 - `POST /v1/health/status/check` - Manual health check (saves to DB)
 - `GET /v1/health/status/history` - View all historical checks
-- Automated scheduler runs every 60 seconds
+- Automated scheduler runs every 60 seconds using `@Scheduler` and `@EnableScheduler`
 
 ## 🎯 What I Built
 - Configured MySQL integration with Spring Data JPA
